@@ -1,0 +1,20 @@
+D:\Users\Nishant\Documents\Visual Studio 2008\Projects\SongSurfer\SongSurfer\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Nishant\Documents\Visual Studio 2008\Projects\SongSurfer\SongSurfer\obj\Debug\SongSurfer.Properties.Resources.resources
+D:\Users\Nishant\Documents\Visual Studio 2008\Projects\SongSurfer\SongSurfer\obj\Debug\SongSurfer.SongSurfer.resources
+D:\Users\Nishant\Documents\Visual Studio 2008\Projects\SongSurfer\SongSurfer\obj\Debug\SongSurfer.csproj.GenerateResource.Cache
+D:\Users\Nishant\Documents\Visual Studio 2008\Projects\SongSurfer\SongSurfer\bin\Debug\SongSurfer.exe
+D:\Users\Nishant\Documents\Visual Studio 2008\Projects\SongSurfer\SongSurfer\bin\Debug\SongSurfer.pdb
+D:\Users\Nishant\Documents\Visual Studio 2008\Projects\SongSurfer\SongSurfer\bin\Debug\NAudio.dll
+D:\Users\Nishant\Documents\Visual Studio 2008\Projects\SongSurfer\SongSurfer\bin\Debug\NAudio.xml
+D:\Users\Nishant\Documents\Visual Studio 2008\Projects\SongSurfer\SongSurfer\obj\Debug\SongSurfer.exe
+D:\Users\Nishant\Documents\Visual Studio 2008\Projects\SongSurfer\SongSurfer\obj\Debug\SongSurfer.pdb
+C:\Projects\Projects\Projects\SongSurfer\SongSurfer\obj\Debug\SongSurfer.exe
+C:\Projects\Projects\Projects\SongSurfer\SongSurfer\obj\Debug\SongSurfer.pdb
+C:\Projects\Projects\Projects\SongSurfer\SongSurfer\bin\Debug\SongSurfer.exe
+C:\Projects\Projects\Projects\SongSurfer\SongSurfer\bin\Debug\SongSurfer.pdb
+C:\Projects\Projects\Projects\SongSurfer\SongSurfer\bin\Debug\NAudio.dll
+C:\Projects\Projects\Projects\SongSurfer\SongSurfer\bin\Debug\NAudio.xml
+C:\Projects\Projects\Projects\SongSurfer\SongSurfer\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Projects\Projects\SongSurfer\SongSurfer\obj\Debug\SongSurfer.Properties.Resources.resources
+C:\Projects\Projects\Projects\SongSurfer\SongSurfer\obj\Debug\SongSurfer.SongSurfer.resources
+C:\Projects\Projects\Projects\SongSurfer\SongSurfer\obj\Debug\SongSurfer.csproj.GenerateResource.Cache
