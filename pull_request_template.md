@@ -1,3 +1,7 @@
-- [ ] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
+- [ ] Does the code/method follow single responsibility principle ?
+- [ ] Does the code formatting allows better readability ?
+- [ ] Does the accessibility of class/method/variables makes sense ?
+- [ ] Does the name of class/variables/methods makes sense ?
+- [ ] Is the class small enough ?
+- [ ] Is the method small enough ?
+- [ ] Does the code look consistent with other project code ?
